@@ -910,7 +910,7 @@ ul {
 
   article {
     word-wrap: break-word;
-    max-height: 97px;
+    height: 97px;
     width: auto;
   }
 
@@ -1119,7 +1119,23 @@ ul {
 .img-2{
   top: -345px;
 }
+article{
+  height: auto;
 }
+.our-approach{
+  width: auto;
+  align-items: center;
+  justify-content: center;
+  
+  padding-left: 30px;
+}
+.cont4-img img {
+  height: auto;
+}
+.right-side li {
+  height: auto;
+}
+}    
 
 
 /* For screens less than 480px wide (mobile phones) */
